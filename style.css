@@ -1,9 +1,14 @@
 .flex{
   display: flex;
+  gap: 40px;
   justify-content: space-between;
 }
 
 .para1{
   font-family: inter;
-  font-size: 25px;
+  font-size: 20px;
 } 
+
+header{
+  margin: 50px;
+}
