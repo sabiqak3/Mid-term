@@ -1,6 +1,7 @@
 .flex{
   display: flex;
+  justify-content: space-between;
 }
-.para{
-  font-family: inter
+.para1{
+  font-family: inter;
 }
