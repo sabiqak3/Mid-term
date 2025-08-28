@@ -1,7 +1,6 @@
 .flex{
   display: flex;
   gap: 40px;
-  justify-content: space-between;
 }
 
 .para1{
@@ -13,6 +12,3 @@ header{
   margin: 50px;
 }
 
-.bar1{
-  gap: 40px
-}
