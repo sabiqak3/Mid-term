@@ -8,7 +8,6 @@
   font-size: 20px;
 } 
 
-header{
-  margin: 50px;
+.bar1{
+  display:flex;
 }
-
