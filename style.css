@@ -5,9 +5,13 @@
   margin: 30px;
 }
 
+h1{
+  font-family: inter;
+  font-size: 60px;
+}
+
 p{
-  font-family: space grotesk;
-  
+  font-family: inter;
 }
 
 .para1{
