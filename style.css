@@ -51,9 +51,12 @@ button{
 .b2{
   background-color: #191A23;
   color: white;
-
+  
 }
 
-img illustrator{
-  width: 600px;
+.flex2{
+  display: flex;
+  gap: 100px;
+  margin: 30px;
+  padding: 10px; 100px; 10px; 100px; 
 }
