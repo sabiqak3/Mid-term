@@ -19,5 +19,14 @@
 button{
   padding: 16px 70px;
   font-size: 20px;
+  border-radius: 10px;
   
+}
+
+.b1{
+  background-color: white;
+}
+
+.b1:hover{
+  background-color: greenyellow;
 }
