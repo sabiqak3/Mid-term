@@ -32,7 +32,6 @@ button{
   padding: 20px; 35px; 20px; 35px;
   
 }
-
 .b1{
   background-color: white;
 }
@@ -67,10 +66,14 @@ button{
   padding: 20px; 100px; 20px; 100px; 
   margin: 30px
 }
-h2{
+.b3{
+  font-size: 30px;
+  border-radius: 12px;
+  padding: 10px; 15px; 10px; 15px;
   font-family: inter;
   background-color: #b9ff66;
   font-size: 20px;
+  
 }
 
 .s1{
