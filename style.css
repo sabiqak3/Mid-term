@@ -1,12 +1,14 @@
 .flex{
   display: flex;
-  gap: 40px;
+  gap: 30px;
+  justify-content: space-between;
+  margin: 25px;
 }
 
 .para1{
   font-family: inter;
   font-size: 20px;
-  gap: 20px
+  padding: 12px;
 } 
 
 .bar1{
@@ -15,5 +17,7 @@
 }
 
 button{
-  padding: 16px 25px;
+  padding: 16px 70px;
+  font-size: 20px;
+  
 }
