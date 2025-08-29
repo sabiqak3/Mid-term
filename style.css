@@ -70,9 +70,18 @@ button{
 h2{
   font-family: inter;
   background-color: #b9ff66;
+  font-size: 20px;
 }
 
 .s1{
   padding: 10px;
-  margin: 1px
+  margin: 1px;
+}
+
+.flex3{
+  display: flex;
+  gap: 20px;
+  justify-content: left;
+  margin: 30px;
+  padding: 10px; 100px; 10px; 100px;   
 }
