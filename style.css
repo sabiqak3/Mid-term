@@ -26,9 +26,9 @@ p{
 }
 
 button{
-  padding: 16px 70px;
+  padding: 20px; 35px; 20px; 35px;
   font-size: 20px;
-  border-radius: 10px;
+  border-radius: 14px;
   
 }
 
@@ -42,9 +42,14 @@ button{
 
 .para2{
   font-size: 40px;
-  
 } 
 
 .p1{
   font-size: 20px;
+}
+
+.b2{
+  background-color: #191A23;
+  color: white;
+
 }
