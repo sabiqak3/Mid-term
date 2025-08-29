@@ -26,9 +26,9 @@ p{
 }
 
 button{
-  padding: 20px; 35px; 20px; 35px;
   font-size: 20px;
   border-radius: 14px;
+  padding: 20px; 35px; 20px; 35px;
   
 }
 
@@ -52,4 +52,8 @@ button{
   background-color: #191A23;
   color: white;
 
+}
+
+img illustrator{
+  width: 600px;
 }
