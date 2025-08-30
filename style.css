@@ -3,7 +3,6 @@
   gap: 30px;
   justify-content: space-between;
   margin: 30px;
-
 }
 
 h1{
@@ -14,23 +13,19 @@ h1{
 p{
   font-family: inter;
 }
-
 .para1{
-  
   font-size: 20px;
   padding: 12px;
 } 
 
 .bar1{
   display:flex;
-
 }
 
 button{
   font-size: 20px;
   border-radius: 14px;
   padding: 20px; 35px; 20px; 35px;
-  
 }
 .b1{
   background-color: white;
@@ -64,15 +59,15 @@ button{
 .clogo{
   justify-content: space-between;
   padding: 20px; 100px; 20px; 100px; 
-  margin: 30px
+  margin: 30px;
 }
+
 .b3{
-  font-size: 30px;
+  font-size: 18px;
   border-radius: 12px;
   padding: 10px; 15px; 10px; 15px;
   font-family: inter;
   background-color: #b9ff66;
-  font-size: 20px;
   
 }
 
@@ -96,7 +91,12 @@ button{
   font-family: inter;
   background-color: #b9ff66;
   font-size: 20px;
-  
+}
+
+.ratio{
+  font-size: 18px;
+  font-family: inter;
+
 }
 
 
