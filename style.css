@@ -142,9 +142,12 @@ input{
   
 }
 
-img illustrator (1){
-  width: 200px;
+.para2{
+  font-size: 15px;
+  padding: 12px;
+  color: white;
 }
+
 
 
 
