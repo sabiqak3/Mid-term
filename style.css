@@ -148,7 +148,14 @@ input{
   color: white;
 }
 
+.flex5{
+  display: flex;
+  gap: 30px;
+  justify-content: space-between;
+  margin: 30px;
+  background-color: #191A23;
 
+}
 
 
 
