@@ -191,3 +191,15 @@ input{
   background-color: #191A23;
   padding: 30px; 200px; 30px; 200px;  
 }
+
+.b6{
+  font-size: 30px;
+  background-color: #b9ff66;
+  padding-top: 20px;
+  padding-right: 50px;
+  padding-bottom: 20px;
+  padding-left: 10px;
+  border-radius: 12px;
+  font-family: inter;
+  font-size: 20px;
+}
