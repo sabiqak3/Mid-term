@@ -181,3 +181,13 @@ input{
   padding-left: 10px;
   background-color: #20212c;
 }
+
+
+.flex6{
+  display: flex;
+  gap: 30px;
+  justify-content: space-between;
+  margin: 30px;
+  background-color: #191A23;
+  padding: 30px; 200px; 30px; 200px;  
+}
