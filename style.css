@@ -228,6 +228,7 @@ input{
 footer{
   margin: 30px;
   background-color: #191A23;
+  border-radius: 12px;
 }
 
 .sechead{
@@ -255,4 +256,40 @@ footer{
   width: 1440px;
   height: 310px;
 }
+
+.secblock{
+  width: 1434px;
+  height: 1224px;
+}
+
+.secform{
+  width: 1440px;
+  height: 773px;
+}
+
+
+.secf-form{
+  width: 1121px;
+  height: 30px;
+ 
+}
+
+.secf-cont{
+   width: 1241px;
+  height: 514px;
+}
+
+.secf-policy{
+   width: 1120px;
+  height: 78px;
+}
+
+.secfoot{
+  width: 1441px;
+  height: 514px;
+   
+}
+
+
+
 
