@@ -2,8 +2,9 @@
   display: flex;
   gap: 30px;
   justify-content: space-between;
-  margin: 30px;
+  margin: 20px;
 }
+
 
 h1{
   font-family: inter;
@@ -25,7 +26,7 @@ p{
 button{
   font-size: 20px;
   border-radius: 14px;
-  padding: 20px; 35px; 20px; 35px;
+  padding: 15px; 25px; 15px; 25px;
 }
 .b1{
   background-color: white;
@@ -234,12 +235,14 @@ footer{
 .sechead{
   width: 1440px;
   height: 68px;
-}
-
+} 
+ 
 .secnav{
   width: 1440px;
   height: 515px;
-}
+}  
+
+
 
 .seclog{
   width: 1440px;
@@ -286,11 +289,114 @@ footer{
 
 .secfoot{
   width: 1441px;
-  height: 514px;
-   
+  height: 514px;   
 }
 
 
 
 
 
+
+@media (max-width: 575.98px) {
+   h1 {
+    font-size: 36px;
+    text-align: center;
+  }
+
+  .flex, .flex2, .flex3, .flex4, .flex5, .flex6, .flex7 {
+    flex-direction: column;
+    gap: 15px;
+    padding: 20px;
+    margin: 15px;
+  }
+
+  .clogo, .box1, .box2, .box6, .box7 {
+    padding: 15px;
+    margin: 15px;
+    text-align: center;
+  }
+
+  .para2, .p1, .p3, .ratio {
+    font-size: 16px;
+  }
+
+  .b1, .b2, .b3, .b4, .b5, .b6 {
+    font-size: 16px;
+    padding: 12px 20px;
+  }
+
+  .secfoot, .secf-policy, .secf-cont, .secf-form, .secform,
+  .secblock, .seccard, .secserve, .seclog, .secnav, .sechead {
+    width: 100% !important;
+    height: auto !important;
+  }
+
+  input, .box2 {
+    padding-right: 20px;
+  } 
+}
+
+@media (min-width: 576px) and (max-width: 991.98px) {
+  h1 {
+    font-size: 48px;
+  }
+
+  .flex, .flex2, .flex3, .flex4, .flex5, .flex6, .flex7 {
+    flex-direction: column;
+    gap: 20px;
+    padding: 30px;
+    margin: 20px;
+  }
+
+  .clogo, .box1, .box2, .box6, .box7 {
+    padding: 20px 30px;
+  }
+
+  .para2, .p1, .p3, .ratio {
+    font-size: 18px;
+  }
+
+  .b1, .b2, .b3, .b4, .b5, .b6 {
+    font-size: 18px;
+    padding: 14px 25px;
+  }
+
+  .secfoot, .secf-policy, .secf-cont, .secf-form, .secform,
+  .secblock, .seccard, .secserve, .seclog, .secnav, .sechead {
+    width: 100% !important;
+    height: auto !important;
+  }
+
+  input, .box2 {
+    padding-right: 40px;
+  }
+}
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  h1 {
+    font-size: 56px;
+  }
+
+  .flex, .flex2, .flex3, .flex4, .flex5, .flex6, .flex7 {
+    flex-direction: row;
+    gap: 30px;
+    padding: 40px 100px;
+    margin: 30px;
+  }
+
+  .b1, .b2, .b3, .b4, .b5, .b6 {
+    font-size: 20px;
+    padding: 16px 30px;
+  }
+
+  .secfoot, .secf-policy, .secf-cont, .secf-form, .secform,
+  .secblock, .seccard, .secserve, .seclog, .secnav, .sechead {
+    width: 100% !important;
+    height: auto !important;
+  }
+
+  input, .box2 {
+    padding-right: 80px;
+  }
+}
